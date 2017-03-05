@@ -21,6 +21,7 @@ on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either expres
 for the specific language governing permissions and limitations under the License.
 
 copied from:
+https://github.com/cschwer/esp8266
 ESP8266 Based Contact Sensor
 Author: cschwer
 Date: 2016-01-23
